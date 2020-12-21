@@ -44,21 +44,21 @@
 👩‍💻 Study | Learn Canvas API by practicing <1 Minute Coding> 💅
 
 [ Project ]
-📆 Crawler of CAU Calender with Python, Selenium 🐍
-📝 Templates of algorithm, data analysis and etc 🐍
+📆 Crawler of CAU Calender with Python, Selenium
+📝 Templates of algorithm, data analysis and etc
 
 [ CoodingPenguin ]
-🐧 CoodingPenguin's Devlog with GatsbyJS ⚛
-🐧 Hi, I am CoodingPenguin 👋
+🐧 CoodingPenguin's Devlog with GatsbyJS
+👋 Hi, I am CoodingPenguin
 
 [ Forked ]
 📌 Forked | Cheatsheets of Everything by rstacruz 👀
 📌 Forked | Tech Interview Collections by WeareSoft 🏢
 ```
 
-- `Project`를 제외하고 모든 저장소는 특정 이모지로 **생성목적**을 표시하며, `Study`와 `Forked`는 생성목적과 설명 사이에 구분자(`|`)를 둡니다.
-- 생성목적에 따라 저장소를 잘 나타내는 **설명**을 적습니다. 가장 첫 단어의 첫 문자만 대문자로 작성하고 그외는 모두 소문자로 작성합니다.
-- 설명 마지막에는 **사용한 언어, 툴**을 나타내는 이모지를 표시합니다. 예를 들면, Python은 🐍으로 CSS는 💅로 나타냅니다.
+- **[필수]** `Project`를 제외하고 모든 저장소는 특정 이모지로 **생성목적**을 표시하며, `Study`와 `Forked`는 생성목적과 설명 사이에 구분자(`|`)를 둡니다.
+- **[필수]** 생성목적에 따라 저장소를 잘 나타내는 **설명**을 적습니다. 가장 첫 단어의 첫 문자만 대문자로 작성하고 그외는 모두 소문자로 작성합니다.
+- [선택] 만약 앞의 이모지가 동일한 경우 저장소 구분을 위해 마지막 이모지를 달 수 있습니다.
 - 저장소 종류에 따라 조금씩의 변화를 둡니다.
   - `Forked`와 `CoodingPenguin`의 경우 첫 번째 이모지로 📌와 🐧를 사용합니다.
   - `Study`는 무엇을 배우는지를 적고 `<>` 안에 참고한 책/사이트/강의 제목을 적습니다.
@@ -79,6 +79,9 @@
 - 참고한 책/사이트/강의
 
 ## 📄 README
+
+> <b>2020.12.22</b>  
+> 지금까지도 커밋을 하는 저장소의 README의 경우 다음의 양식을 따릅니다. 그 전에 생성된 혹은 더이상 사용하지 않는 저장소는 그대로 둡니다.
 
 `Forked` 저장소를 제외한 모든 저장소는 기본적으로 [Best-README-Template](https://github.com/othneildrew/Best-README-Template)와 [readme-md-generator](https://github.com/kefranabg/readme-md-generator) 양식을 섞어서 사용합니다.
 

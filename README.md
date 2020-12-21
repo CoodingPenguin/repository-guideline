@@ -10,14 +10,15 @@
 
 ## 📝 목차
 
-- [저장소 종류](#저장소-종류)
-- [저장소 생성 규칙](#저장소-생성-규칙)
-  - [Name](#name)
-  - [Description](#description)
-  - [URLs](#urls)
-  - [Tags](#tags)
+- [저장소 종류](#-저장소-종류)
+- [저장소 생성 규칙](#-저장소-생성-규칙)
+  - [이름 (Name)](#이름-name)
+  - [설명 (Description)](#설명-description)
+  - [주소 (Website)](#주소-website)
+  - [태그 (Topics)](#태그-topics)
 - [README](#-readme)
-- [Commit Log](#-commit-log)
+- [커밋 로그](#-커밋-로그)
+- [참고](#-참고)
 
 ## 📚 저장소 종류
 

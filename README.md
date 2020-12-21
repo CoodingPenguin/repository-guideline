@@ -26,6 +26,8 @@
   </ol>
 </details>
 
+<br/>
+
 ## 📚 Repository Type
 
 저장소의 종류는 **생성 목적**에 따라 달라진다:
@@ -34,6 +36,8 @@
 - `Project`: 프로젝트 용으로 만든 저장소
 - `CoodingPenguin`: 블로그, 프로필, 포트폴리오 용으로 만든 저장소
 - `Forked`: 자주 보는 저장소를 Fork한 저장소
+
+<br/>
 
 ## 🏠 About Repository
 
@@ -88,6 +92,8 @@
 - 저장소 생성 목적
 - 관련 책, 사이트, 강의
 
+<br/>
+
 ## 📄 README
 
 `Forked` 저장소를 제외한 모든 저장소는 기본적으로 [Best-README-Template](https://github.com/othneildrew/Best-README-Template) 양식을 따른다.
@@ -96,9 +102,13 @@
 
 ### Tips
 
+<br/>
+
 ## ✒ Commit Log
 
 gitcz
+
+<br/>
 
 ## 📌 References
 

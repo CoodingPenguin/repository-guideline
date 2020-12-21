@@ -4,11 +4,11 @@
   <a href="https://github.com/coodingpenguin/repository-guideline">
     <img src="img/logo.png" alt="Logo" width="128" height="128">
   </a>
-  <h2 style='border: none; margin-bottom: 5px;'>GitHub Repository Guideline</h2>
+  <h3 style='border: none; margin-bottom: 5px;'>GitHub Repository Guideline</h2>
   <small>저장소(Repository) 생성 시 지켜야할 나만의 규칙들</small>
 </div>
 
-## 📝 Table of Contents
+## 📝 목차
 
 - [저장소 종류](#저장소-종류)
 - [저장소 생성 규칙](#저장소-생성-규칙)
@@ -79,20 +79,26 @@
 
 ## 📄 README
 
-`Forked` 저장소를 제외한 모든 저장소는 기본적으로 [Best-README-Template](https://github.com/othneildrew/Best-README-Template) 양식을 따릅니다.
+`Forked` 저장소를 제외한 모든 저장소는 기본적으로 [Best-README-Template](https://github.com/othneildrew/Best-README-Template)와 [readme-md-generator](https://github.com/kefranabg/readme-md-generator) 양식을 섞어서 사용합니다.
 
-자세한 내용은 [readme-templates](./readme-templates)를 참고해주세요!
+**자세한 내용은 [readme-templates](./readme-templates)를 참고해주세요!** (추후 작성 예정)
 
 ## ✒ 커밋 로그
 
-커밋할 때 [git-cz](https://github.com/streamich/git-cz)를 사용하며 제가 자주 쓰는 커밋으로 customizing했습니다!
+커밋할 때 [git-cz](https://github.com/streamich/git-cz)를 사용하며 제가 자주 쓰는 커밋으로 커스텀했으며, 커밋 종류는 다음과 같습니다:
 
-커밋 종류는 다음과 같습니다:
+- `feat`: 새로운 기능 개발
+- `fix`: 버그/에러 픽스
+- `perf`: 성능 향상을 위한 코드 수정
+- `refactor`: 기능 개발, 버그 수정 외의 코드 수정
+- `style`: 코드 포맷팅
+- `docs`: 문서 작성 및 수정
+- `post`: 블로그 글 작성 및 수정
+- `resume`: 블로그 Resume 작성 및 수정
+- `study`: 공부관련 커밋
 
-- `feat` : 새로운 기능
-- `fix` : 버그
+## 📌 참고
 
-## 📌 References
-
-- https://github.com/alstn2468
-- https://github.com/othneildrew/Best-README-Template
+- GitHub Description 형식 참고: https://github.com/alstn2468
+- README 양식 참고: https://github.com/othneildrew/Best-README-Template
+- README 양식 참고: https://github.com/kefranabg/readme-md-generator

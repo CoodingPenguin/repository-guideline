@@ -38,24 +38,6 @@
 
 ### 설명 (Description)
 
-```
-[ Study ]
-👩‍💻 Study | Learn Python and CS Basics with <Introducing Python> 🐍
-👩‍💻 Study | Learn Canvas API by practicing <1 Minute Coding> 💅
-
-[ Project ]
-📆 Crawler of CAU Calender with Python, Selenium
-📝 Templates of algorithm, data analysis and etc
-
-[ CoodingPenguin ]
-🐧 CoodingPenguin's Devlog with GatsbyJS
-👋 Hi, I am CoodingPenguin
-
-[ Forked ]
-📌 Forked | Cheatsheets of Everything by rstacruz 👀
-📌 Forked | Tech Interview Collections by WeareSoft 🏢
-```
-
 - **[필수]** `Project`를 제외하고 모든 저장소는 특정 이모지로 **생성목적**을 표시하며, `Study`와 `Forked`는 생성목적과 설명 사이에 구분자(`|`)를 둡니다.
 - **[필수]** 생성목적에 따라 저장소를 잘 나타내는 **설명**을 적습니다. 가장 첫 단어의 첫 문자만 대문자로 작성하고 그외는 모두 소문자로 작성합니다.
 - [선택] 만약 앞의 이모지가 동일한 경우 저장소 구분을 위해 마지막 이모지를 달 수 있습니다.

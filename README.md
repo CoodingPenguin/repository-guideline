@@ -4,7 +4,7 @@
   <a href="https://github.com/coodingpenguin/repository-guideline">
     <img src="logo.png" alt="Logo" width="128" height="128">
   </a>
-  <h3 style='border: none; margin-bottom: 5px;'>GitHub Repository Guideline</h2>
+  <h3>GitHub Repository Guideline</h2>
   <small>저장소(Repository) 생성 시 지켜야할 나만의 규칙들</small>
 </div>
 
